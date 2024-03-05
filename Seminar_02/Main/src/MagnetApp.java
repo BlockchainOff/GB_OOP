@@ -5,7 +5,7 @@ import Interfaces.iReturnOrder;
 
  //Класс демонстрирующий работу магазина и покупателей.
  
-public class App {
+public class MagnetApp {
     public static void main(String[] args) throws Exception {
         // Создаем объект магазина с именем "magnit".
         Market magnit = new Market();
